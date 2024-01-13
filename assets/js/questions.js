@@ -100,4 +100,4 @@ var questions = [
     choices: ["Dublin", "Belfast", "Glasgow", "Cardiff"],
     answer: "Dublin"
     }
-];
+]
