@@ -6,3 +6,8 @@ var submitBtn = document.querySelector("#submit");
 var startBtn = document.querySelector("#start");
 var initialsEl = document.querySelector("#initials");
 var feedbackEl = document.querySelector("#feedback");
+
+// quiz state variables
+var currentQuestionIndex = 0;
+var time = questions.length * 15;
+var timerId;
