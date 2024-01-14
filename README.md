@@ -70,16 +70,6 @@ To get to code quiz on the web application, follow these simple steps please.
 
 ![Screenshot](https://github.com/Muradhanki/Code-Quiz/blob/main/assets/images/high%20scores.jpg "Web application Screen Shot")
 
-* Step 7: Preview the provided password
-
-![Screenshot](https://github.com/Muradhanki/Password-Generator/blob/main/images/6%20final%20pw%20page.jpg "Web application Screen Shot")
- 
-Being a a future front-end developer, I was in need of final code to run the paswword output to the web application by using JavaScript.
-
-The following image shows the web application's appearance and functionality:
-
-![password generator demo](https://github.com/Muradhanki/Password-Generator/blob/main/images/Webpage%20screen%20shot.jpg)
-
 
 ## Built With
 
@@ -100,9 +90,9 @@ To get a local copy up and running follow these simple example steps.
 1. Fire up your GitBash console and copy the line below
 
 2. 
-git clone git@github.com:Muradhanki/Password-Generator.git
+git clone git@github.com:Muradhanki/Code-Quiz.git
 
-![Screenshot](https://github.com/Muradhanki/Password-Generator/blob/main/images/git%20bash%20clone%20demo.jpg "Git Bash Installation")
+![Screenshot](https://github.com/Muradhanki/Code-Quiz/blob/main/assets/images/git%20clone%20sample.jpg "Git Bash Installation")
 
 ## Roadmap
 
