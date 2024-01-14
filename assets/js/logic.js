@@ -67,7 +67,7 @@ function questionClick() {
 
     // Play incorrect sound
     incorrectSound.play();
-    
+
     // penalize time
     time -= 15;
 
@@ -80,6 +80,10 @@ function questionClick() {
     feedbackEl.style.color = "red";
     feedbackEl.style.fontSize = "400%";
   } else {
+
+    // Play correct sound
+    correctSound.play();
+    
     feedbackEl.textContent = "Correct!";
     feedbackEl.style.color = "green";
     feedbackEl.style.fontSize = "400%";
