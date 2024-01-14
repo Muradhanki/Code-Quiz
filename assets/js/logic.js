@@ -7,6 +7,10 @@ var startBtn = document.querySelector("#start");
 var initialsEl = document.querySelector("#initials");
 var feedbackEl = document.querySelector("#feedback");
 
+// Audio elements for WAV files
+var correctSound = new Audio("assets/sfx/correct.wav");
+var incorrectSound = new Audio("assets/sfx/incorrect.wav");
+
 // quiz state variables
 var currentQuestionIndex = 0;
 var time = questions.length * 15;
