@@ -64,6 +64,10 @@ function getQuestion() {
 function questionClick() {
   // check if user guessed wrong
   if (this.value !== questions[currentQuestionIndex].answer) {
+
+    // Play incorrect sound
+    incorrectSound.play();
+    
     // penalize time
     time -= 15;
 
