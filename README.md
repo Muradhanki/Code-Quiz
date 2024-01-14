@@ -22,10 +22,27 @@ https://muradhanki.github.io/Code-Quiz/index.html
 
 Hi everyone! This is Muradhan. I am a construction project manager of 10 years whom always had an interest overt the IT industry. Finally decided to make the switch, and started the EdX's Front end development boot camp to switch his field of work. 
 
-In this assignment, I am tasked to create an application that an employee can use to generate a random password. The app that I have written will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code.
+In this assignment, I am tasked to create an application that to take a timed quiz on JavaScript fundamentals that stores high scores. SO THAT I can gauge my progress compared to my peers. The app that I have written will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code.
+
+The code quiz contains the following requirements:
+
+* A start button that when clicked a timer starts and the first question appears.
+ 
+  * Questions contain buttons for each answer.
+  * 
+  * When answer is clicked, the next question appears
+  * 
+  * If the answer clicked was incorrect then subtract time from the clock
+
+* The quiz should end when all questions are answered or the timer reaches 0.
+
+  * When the game ends, it should display their score and give the user the ability to save their initials and their score
 
 
-![Screenshot](https://github.com/Muradhanki/Password-Generator/blob/main/images/Webpage%20screen%20shot.jpg "Web console application Screen Shot")
+The following animation demonstrates the application functionality:
+
+![Animation of code quiz. Presses button to start quiz. Clicks the button for the answer to each question, displays if answer was correct or incorrect. Quiz finishes and displays high scores. User adds their intials, then clears their intials and starts over.](./assets/08-web-apis-challenge-demo.gif)
+
 
 To get to create a password on the web application, follow these simple steps please.
 
@@ -63,18 +80,6 @@ The following image shows the web application's appearance and functionality:
 
 ![password generator demo](https://github.com/Muradhanki/Password-Generator/blob/main/images/Webpage%20screen%20shot.jpg)
 
-
-* Generate a password when the button is clicked
-  * Present a series of prompts for password criteria
-    * Length of password
-      * At least 8 characters but no more than 128.
-    * Character types
-      * Lowercase
-      * Uppercase
-      * Numeric
-      * Special characters ($@%&*, etc)
-  * Code should validate for each input and at least one character type should be selected
-  * Once prompts are answered then the password should be generated and displayed in an alert or written to the page
 
 ## Built With
 
