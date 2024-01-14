@@ -48,7 +48,7 @@ To get to create a password on the web application, follow these simple steps pl
 
 * Step 1: go to   (https://muradhanki.github.io/Code-Quiz/index.html) with your favorite web borwser.
 
-![Screenshot](https://github.com/Muradhanki/Password-Generator/blob/main/images/Webpage%20screen%20shot.jpg "Web application Screen Shot")
+![Screenshot](https://github.com/Muradhanki/Code-Quiz/blob/main/assets/images/Main%20screen%20.jpg "Web application Screen Shot")
 
 * Step 2: Click on to the Generate Password button to insert the desired password length between 8 and 128 characters .
 
