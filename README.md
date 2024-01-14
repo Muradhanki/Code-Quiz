@@ -44,31 +44,31 @@ The following animation demonstrates the application functionality:
 ![Screenshot](https://github.com/Muradhanki/Code-Quiz/blob/main/assets/images/08-web-apis-challenge-demo.gif "Animation of code quiz. Presses button to start quiz. Clicks the button for the answer to each question, displays if answer was correct or incorrect. Quiz finishes and displays high scores. User adds their intials, then clears their intials and starts over.")
 
 
-To get to create a password on the web application, follow these simple steps please.
+To get to code quiz on the web application, follow these simple steps please.
 
-* Step 1: go to   (https://muradhanki.github.io/Code-Quiz/index.html) with your favorite web borwser.
+* Step 1: go to   (https://muradhanki.github.io/Code-Quiz/index.html) with your favorite web borwser and Click on to the Start Quiz button.
 
 ![Screenshot](https://github.com/Muradhanki/Code-Quiz/blob/main/assets/images/Main%20screen%20.jpg "Web application Screen Shot")
 
-* Step 2: Click on to the Generate Password button to insert the desired password length between 8 and 128 characters .
+* Step 2: Questions will appear as below.
 
-![Screenshot](https://github.com/Muradhanki/Password-Generator/blob/main/images/1%20pw%20length%20prompt.jpg "Web application Screen Shot")
+![Screenshot](https://github.com/Muradhanki/Code-Quiz/blob/main/assets/images/questions.jpg "Web application Screen Shot")
 
-* Step 3: Select whether special characters are desired within the password.
+* Step 3: You will get a CORRECT notification once you select a correct answer.
 
-![Screenshot](https://github.com/Muradhanki/Password-Generator/blob/main/images/2%20special%20character%20prompt.jpg "Web application Screen Shot")
+![Screenshot](https://github.com/Muradhanki/Code-Quiz/blob/main/assets/images/correct%20answer.jpg "Web application Screen Shot")
 
-* Step 4: Select whether Uppercase characters are desired within the password.
+* Step 4: You will get a ~INCORRECT notification once you select an incorrect answer.
 
-![Screenshot](https://github.com/Muradhanki/Password-Generator/blob/main/images/3%20uppercase%20prompt.jpg "Web application Screen Shot")
+![Screenshot](https://github.com/Muradhanki/Code-Quiz/blob/main/assets/images/incorrect%20answer.jpg "Web application Screen Shot")
 
-* Step 5: Select whether Lowercase characters are desired within the password.
+* Step 5: Once you are done with the questions, please insert ypur initials to add your score to the higfh scores list.
 
-![Screenshot](https://github.com/Muradhanki/Password-Generator/blob/main/images/4%20lowercase%20prompt.jpg "Web application Screen Shot")
+![Screenshot](https://github.com/Muradhanki/Code-Quiz/blob/main/assets/images/result%20screen.jpg "Web application Screen Shot")
 
-* Step 6: Select whether Numbers are desired within the password.
+* Step 6: Click on to the Highscores section up left to see the locally sotred high scores.
 
-![Screenshot](https://github.com/Muradhanki/Password-Generator/blob/main/images/5%20numbers%20prompt.jpg "Web application Screen Shot")
+![Screenshot](https://github.com/Muradhanki/Code-Quiz/blob/main/assets/images/high%20scores.jpg "Web application Screen Shot")
 
 * Step 7: Preview the provided password
 
